@@ -2,6 +2,8 @@
 
 This template provides a standardized structure for data analysis projects. It includes directories for data, notebooks, source code, tests, and a comprehensive checklist to guide you through the project lifecycle.
 
+See the [Data Analysis Project Checklist](docs/CHECKLIST.md) for a more complete overview of the repeatable data analysis project process.
+
 ## Getting Started
 
 ### Prerequisites
